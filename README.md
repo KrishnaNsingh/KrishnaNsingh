@@ -24,7 +24,7 @@
 
 ---
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mausam5055&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=KrishnaNsingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 <!---### 🔥 Featured Repositories
@@ -50,6 +50,7 @@
 🌍 Portfolio: your-website -->
 
 <img align="right" alt="Coding" width="3000px" height="5px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif">
+
 
 
 
