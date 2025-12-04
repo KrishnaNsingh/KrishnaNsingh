@@ -39,7 +39,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KrishnaNsingh&show_icons=true&theme=radical" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaNsingh&theme=radical" height="180">
+  <img src="https://streak-stats.demolab.com/?user=KrishnaNsingh&theme=radical" height="180">
 </p>
 
 ---
@@ -55,6 +55,7 @@
 
 
 <img align="right" alt="Coding" width="3000px" height="5px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif">
+
 
 
 
