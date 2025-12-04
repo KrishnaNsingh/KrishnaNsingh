@@ -35,10 +35,15 @@
 <!-- 👉 *Pin your top 3 repos on GitHub for visibility* -->
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=KrishnaNsingh&theme=radical" height="180">
-</p>
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhmbTJ4dnA3aWRjaWdnbzE2Mm16ZjlxYTdlMDRqanIxYjJiaTcyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NytMLKyiaIh6VH9SPm/giphy.gif" />
 
+![](https://github-readme-stats.vercel.app/api?username=KrishnaNsingh&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=KrishnaNsingh&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaNsingh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrishnaNsingh&radius=16&theme=react-dark&area=true&order=4" height="300" alt="activity-graph graph" />
+</div>
 
 ---
 
@@ -47,7 +52,6 @@
 <!-- 🔗 LinkedIn: your-link  
 🌍 Portfolio: your-website -->
 
-### Snake game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KrishnaNsingh/KrishnaNsingh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishnaNsingh/KrishnaNsingh/output/github-contribution-grid-snake.svg">
@@ -59,6 +63,7 @@
 
 
 <img align="right" alt="Coding" width="3000px" height="5px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif">
+
 
 
 
