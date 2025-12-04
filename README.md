@@ -36,7 +36,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KrishnaNsingh&show_icons=true&theme=radical" height="180">
   <img src="https://streak-stats.demolab.com/?user=KrishnaNsingh&theme=radical" height="180">
 </p>
 
