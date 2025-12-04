@@ -34,6 +34,11 @@
 
 <!-- 👉 *Pin your top 3 repos on GitHub for visibility* -->
 
+<img alt="Divider" width="100%" height="5px" src="...">
+...
+<img align="right" alt="Coding" width="3000px" height="5px" src="...">
+
+
 
 
 ### 📊 GitHub Stats
