@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhmbTJ4dnA3aWRjaWdnbzE2Mm16ZjlxYTdlMDRqanIxYjJiaTcyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NytMLKyiaIh6VH9SPm/giphy.gif" />
 
-![](https://github-readme-stats.vercel.app/api?username=KrishnaNsingh&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
+<!--- ![](https://github-readme-stats.vercel.app/api?username=KrishnaNsingh&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/> --->
 ![](https://nirzak-streak-stats.vercel.app/?user=KrishnaNsingh&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaNsingh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 
@@ -63,6 +63,7 @@
 
 
 <img align="right" alt="Coding" width="3000px" height="5px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif">
+
 
 
 
