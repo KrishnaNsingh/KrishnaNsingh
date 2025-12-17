@@ -57,18 +57,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KrishnaNsingh/KrishnaNsingh/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KrishnaNsingh/KrishnaNsingh/output/github-contribution-grid-snake.svg">
 </picture>
-<!-- Light mode -->
-![Snake](https://raw.githubusercontent.com/KrishnaNsingh/KrishnaNsingh/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-
-<!-- Dark mode -->
-![Snake](https://raw.githubusercontent.com/KrishnaNsingh/KrishnaNsingh/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-
-
 ---
 
 
 <img align="right" alt="Coding" width="3000px" height="5px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif">
+
 
 
 
