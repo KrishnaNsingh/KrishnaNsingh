@@ -16,6 +16,7 @@
 - 🚀 Always building projects & improving skills  
 
 ---
+<img src="https://komarev.com/ghpvc/?username=KrishnaNsingh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ### 🚀 Skills & Tools
 <p>
@@ -62,6 +63,7 @@
 
 
 <img align="right" alt="Coding" width="3000px" height="5px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif">
+
 
 
 
