@@ -24,8 +24,8 @@
 </p>
 
 ---
-<!--🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KrishnaNsingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)--->
+🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KrishnaNsingh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 <!---### 🔥 Featured Repositories
@@ -37,6 +37,9 @@
 
 ### 📊 GitHub Stats
 <img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDhmbTJ4dnA3aWRjaWdnbzE2Mm16ZjlxYTdlMDRqanIxYjJiaTcyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NytMLKyiaIh6VH9SPm/giphy.gif" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaNsingh&theme=dark" alt="GitHub Streak"/>
+</p>
 
 <!--- ![](https://github-readme-stats.vercel.app/api?username=KrishnaNsingh&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/> --->
 ![](https://nirzak-streak-stats.vercel.app/?user=KrishnaNsingh&theme=radical&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaNsingh&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
