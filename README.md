@@ -20,7 +20,7 @@
 
 ### 🚀 Skills & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,python,cpp,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,nodejs,express,mongodb,postgres,python,fastapi,cpp,git,linux,docker" />
 </p>
 
 ---
