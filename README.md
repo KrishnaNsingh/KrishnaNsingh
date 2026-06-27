@@ -10,7 +10,7 @@
 
 ### 🌟 About Me
 - 🎓 3rd-year CS Student at VIT Bhopal
-- 💻 Full Stack Developer (MERN / Next.js)  
+- 💻 Full Stack Developer (MERN / Next.js / FastAPI)  
 - 🤖 Machine Learning Learner  
 - 📚 Practicing DSA regularly  
 - 🚀 Always building projects & improving skills  
